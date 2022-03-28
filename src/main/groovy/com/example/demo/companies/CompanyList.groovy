@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController
 class CompanyList {
 
 	@GetMapping("/companies")
-	String index() {
+	String getCompanyList() {
 		return "Company list"
 	}
 
