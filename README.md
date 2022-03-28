@@ -1,4 +1,6 @@
-# Getting Started
+# Spring Boot Groovy Demo
+
+## Getting Started
 
 This app was created using https://start.spring.io/ and the following options:
 
@@ -7,8 +9,6 @@ This app was created using https://start.spring.io/ and the following options:
 - Spring Boot: 2.6.5
 - Java: 11
 - Dependencies: Spring Web
-
-## Build
 
 Run the following command to launch the app at http://localhost:8080.
 
